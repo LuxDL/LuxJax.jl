@@ -1,0 +1,7 @@
+[deps]
+# Conda package names and versions
+python = ">=3.10,<3.12"
+
+[pip.deps]
+flax = ">= 0.7"
+numpy = ">= 1"
